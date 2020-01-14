@@ -1,0 +1,156 @@
+{
+  "main": {
+    "_comment": "I deleted instagram widget...",
+    "name":"Carlos Robles",
+    "occupation":"Fullstack Software Engineer",
+    "description":"Python,Java and React based web projects",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Please Contact Me!",
+    "email": "crobles1896@gmail.com",
+    "phone": "314-157-55-63",
+    "address":{
+      "street":"Paseo De Las Gaviotas",
+      "city":"Manzanillo",
+      "state":"Colima",
+      "zip": "28219"
+    },
+    "website": "http://www.carlosroblesdev.herokuapp.com",
+    "resumedownload":"https://www.slideshare.net/slideshow/embed_code/key/A6QRAqPrBnHGwB",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/carlosrh18",
+        "className":"fa fa-facebook"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/carlosrh18",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/crobles1896",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Fullstack Engineer with knowledge in python,java, vanilla JS and React JS. Also i have implemented many algorithms to improve memory management.",
+    "education":[
+      {
+        "school":"University of Colima",
+        "degree":"Bachelor in Telematics Engineering",
+        "graduated":"June 2018",
+        "description":"During school i aquired leadership and management skills such as creating innovating projects. With the help of other classmates, i created a forecast device with raspberry Pi alongside with a web system to prevent flooding."
+      },
+      {
+        "school":"North Carolina State University",
+        "degree":"1 Month Computer Science Internship",
+        "graduated":"November 2017",
+        "description":"During my internship i took several computer science workshops about data science and advanced software engineering"
+      }
+    ],
+    "work":[
+      {
+        "company":"Montecristo Data-Mining S.A de C.V",
+        "title":"Java Fullstack Developer",
+        "years":"June 2014- June 2018" ,
+        "description":"I worked as a fullstack java and javascript developer during my college years. I was working on my thesis project, a bullyng prevention system using graph theory and the js library networkx. I worked on another non-school related projects, such as Deja-Bus (An app that allows you to know in which time your bus arrives). I worked on the fronted of Dejabus and also proposed ideas for the app logo. I worked on devops giving support to linux servers and working with jenkins pipelines."
+      },
+      {
+        "company":"Hewlett Packard Enterprise",
+        "title":"Front-end Developer",
+        "years":"December 2018- June 2019",
+        "description":"Worked on an agile team of 4 developers. I was in charge of the front-end development of HPE's server vending webpage. I worked on the data layer of the web page in order to ensure analytics and tealium tags were working fine.Tools used: Jenkins, React, VanillaJS, Docker, Python, Charles, Tealium, Google Analytics"
+      },
+      {
+        "company":"UST-GLOBAL",
+        "title":"Senior Java Fullstack Dev",
+        "years":"June 2019 - December 2019",
+        "description":"Worked alongside 6 developers in a healthcare web based system that used HADOOP, Java and angular. I developed modules in java for the data manipulation of the hospital revenue. I worked on the hadoop environment in order to create nodes for the system. I proposed the use of the library ElasticSearch for searching a patient more easily."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"Advanced"
+      },
+      {
+        "name":"Java",
+        "level":"Advanced"
+      },
+      {
+        "name":"ReactJs",
+        "level":"Advanced"
+      },
+      {
+        "name":"Angular",
+        "level":"Advanced"
+      },
+      {
+        "name":"Python",
+        "level":"Advanced"
+      },
+      {
+        "name":"Docker",
+        "level":"Advanced"
+      },
+      {
+        "name":"Golang",
+        "level":"Medium"
+      },
+      {
+        "name":"Rust",
+        "level":"Medium"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bengalapp",
+        "category":"React Native based app that recommends safest routes to school or work and maps dangerous areas in your city",
+        "image":"bengalapp.jpeg",
+        "url":"https://github.com/carlosrh18/BENGALAPP"
+      },
+      {
+        "title":"Bus Routes simulation",
+        "category":"A python made simulation to represent routes in my city",
+        "image":"simulation.png",
+        "url":"https://github.com/carlosrh18/Bus-Simmulation"
+      },
+      {
+        "title":"React based Pokedex",
+        "category":"Pokedex i build using the poke-api and React JS. It includes an interactive GUI.",
+        "image":"pokeapi.png",
+        "url":"https://github.com/carlosrh18/Pokedex"
+      },
+      {
+        "title":"Tlaloc: A weather forecast web system",
+        "category":"A web based ",
+        "image":"tlaloc.png",
+        "url":"http://github.com/carlosrh18"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Carlos has an energetic spirit. His data and programming skills make him a good asset for any company or project",
+        "user":"José Cortés - Senior Project Manager at Hewlett Packard Enterprise"
+      },
+      {
+        "text":"Carlos is a very human person, he helps others with their programming issues. He is very efficient and is always innovating",
+        "user":"Luís Garcia - Senior Java Developer at UST GLOBAL"
+      }
+    ]
+  }
+}
